@@ -1,0 +1,178 @@
+body{
+    
+    margin: 0px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+h1{
+    margin: 0 auto;
+    width: 20%;
+    font-size: 6rem;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+    
+}
+
+
+h2{
+    font-size: 2.5rem;
+   
+    color: #11999E;
+}
+
+h3{
+    color: #11999E;
+}
+
+a{
+    text-decoration: none;
+    color: #005658;
+}
+
+p{
+    font-family: 'Merriweather', serif;
+    font-weight: 500;
+    color: 545454;
+    line-height: 2;
+    
+    
+}
+
+.dots{
+    border: thick dotted black;
+    border-style: dotted none none none;
+    width: 20%;
+}
+
+.skill-icon-main{
+    height: 15%;
+    margin-bottom: 0;
+}
+
+.icon-skill{
+    width: 20%;
+    float: left;
+    margin-right: 2%;
+}
+
+.icon-cc{
+
+    width:20%;
+    float: right;
+    margin-left: 2%;
+}
+
+
+
+
+#titlehead{
+    margin-top: .5%;
+}
+
+#topCloud{
+    position: relative;
+    left: 13%;
+
+}
+
+#bottomCloud{
+    position: absolute;
+    left: 30%;
+    }
+
+#pic{
+    height: 170px;
+    display: block;
+    margin: 10px auto;
+    border-radius: 35%;
+}    
+
+
+.topContainer{
+    background-color: #f6f6f6;
+    position: relative;
+    padding-top: 5%;
+}
+
+.middle-container{
+    background-color: white;
+    
+    
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    margin-top: 3%;
+    height: 150px;
+    
+        
+}
+
+.profile{
+    width: 50%;
+    margin: 3% auto;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 2.5% auto;
+    text-align: left;
+    line-height: 2;
+    font-size: 1rem;
+}
+
+.btn{
+    font-size: 25px;
+    font-weight: 500;
+    color: white;
+    border: #005658 solid 1px;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #199b9b;
+    margin: 3%;
+    
+}
+
+.btn:hover{
+    background-color: white;
+    color: #005658;
+    border: #005658 solid 2px;
+    
+}
+
+
+#bottom-h2{
+    font-size: 40px;
+    margin-top: 3%;
+
+}
+
+#lastp{
+    margin: 2.5%;
+}
+
+.footer-link{
+    display: inline-block;
+    color: white;
+    padding: 1%;
+    font-size: x-large;
+    
+}
+
+.footer-link:hover{
+    color: #005658;
+    background-color: white;
+    border: #005658 solid 1px;
+    text-decoration: underline;
+}
+
+#emoji-credit{
+    display: block;
+    margin-bottom: 0%;
+    font-size: small;
+    padding-top: 2%;
+    
+    background-color: #66BFBF;
+    
+    
+}
