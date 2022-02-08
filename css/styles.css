@@ -42,6 +42,7 @@ p{
     border: thick dotted black;
     border-style: dotted none none none;
     width: 20%;
+    clear: left;
 }
 
 .skill-icon-main{
